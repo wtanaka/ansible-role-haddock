@@ -1,0 +1,4 @@
+---
+package_names:
+- ghc-haddock
+- haskell-platform-doc
